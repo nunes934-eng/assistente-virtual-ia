@@ -1,0 +1,62 @@
+[
+  {
+    "topico": "Portfólio do aluno",
+    "palavras_chave": ["portfolio", "portfólio", "produções", "aluno", "coletânea"],
+    "resposta": "O portfólio do aluno reúne produções e registros do estudante ao longo do período letivo, mostrando sua trajetória de aprendizagem. Ele deve ser organizado com data, disciplina/área e uma breve descrição de cada produção, e costuma ser usado como apoio na avaliação formativa e nas reuniões com as famílias."
+  },
+  {
+    "topico": "Calendário letivo",
+    "palavras_chave": ["calendario", "calendário", "letivo", "feriado", "recesso", "dias", "letivos"],
+    "resposta": "O calendário letivo define os dias de aula, feriados, recessos e datas de eventos escolares ao longo do ano. Ele deve garantir o cumprimento da carga horária mínima exigida pela legislação (geralmente 200 dias letivos e 800 horas anuais) e é aprovado pela secretaria de educação no início do ano."
+  },
+  {
+    "topico": "Recuperação escolar",
+    "palavras_chave": ["recuperacao", "recuperação", "reforco", "reforço", "nota", "baixa"],
+    "resposta": "A recuperação escolar é um conjunto de atividades oferecidas ao aluno que não atingiu os objetivos mínimos de aprendizagem em determinado período. Pode ser paralela (durante o bimestre) ou final, e deve ter foco nas habilidades específicas em que o aluno apresentou dificuldade, não apenas repetir o conteúdo já dado."
+  },
+  {
+    "topico": "Conselho de classe",
+    "palavras_chave": ["conselho", "classe", "reuniao", "reunião", "professores", "avaliar", "turma"],
+    "resposta": "O conselho de classe é a reunião pedagógica em que professores, coordenação e, em alguns casos, representantes de turma discutem o desempenho da turma e de alunos específicos. O objetivo é identificar dificuldades, propor encaminhamentos e alinhar estratégias entre as disciplinas."
+  },
+  {
+    "topico": "Projeto Político-Pedagógico (PPP)",
+    "palavras_chave": ["ppp", "projeto", "politico", "político", "pedagogico", "pedagógico", "identidade", "escola"],
+    "resposta": "O Projeto Político-Pedagógico (PPP) é o documento que define a identidade da escola: seus valores, objetivos, metodologia e forma de organização do trabalho pedagógico. Ele deve ser construído coletivamente com a comunidade escolar e revisado periodicamente."
+  },
+  {
+    "topico": "Plano de aula",
+    "palavras_chave": ["plano", "aula", "planejamento", "objetivos", "atividade"],
+    "resposta": "O plano de aula organiza o que será trabalhado em uma aula ou sequência de aulas: objetivos de aprendizagem, conteúdo, metodologia, recursos e forma de avaliação. Um bom plano parte de um objetivo claro e prevê como o professor vai verificar se o aluno aprendeu."
+  },
+  {
+    "topico": "Avaliação diagnóstica",
+    "palavras_chave": ["avaliacao", "avaliação", "diagnostica", "diagnóstica", "inicio", "início", "nivel", "nível"],
+    "resposta": "A avaliação diagnóstica é aplicada no início de um período (ano, bimestre ou unidade) para identificar o que os alunos já sabem. Ela orienta o planejamento do professor e não deve ser usada para atribuir nota, e sim para mapear o ponto de partida da turma."
+  },
+  {
+    "topico": "Frequência escolar",
+    "palavras_chave": ["frequencia", "frequência", "falta", "faltas", "presenca", "presença"],
+    "resposta": "A frequência mínima exigida por lei é de 75% da carga horária total do ano letivo. Faltas devem ser registradas diariamente pelo professor, e casos de infrequência recorrente precisam ser comunicados à coordenação para acionar a busca ativa escolar."
+  },
+  {
+    "topico": "Busca ativa escolar",
+    "palavras_chave": ["busca", "ativa", "evasao", "evasão", "abandono", "infrequencia", "infrequência"],
+    "resposta": "A busca ativa escolar é o conjunto de ações para localizar e reintegrar crianças e adolescentes que estão fora da escola ou com alta infrequência. Envolve contato com a família, articulação com a rede de assistência social e, quando necessário, acionamento do conselho tutelar."
+  },
+  {
+    "topico": "Adaptação curricular / inclusão",
+    "palavras_chave": ["inclusao", "inclusão", "adaptacao", "adaptação", "curricular", "necessidades", "especiais", "aee"],
+    "resposta": "A adaptação curricular ajusta objetivos, conteúdos, metodologia ou avaliação para atender alunos com necessidades específicas de aprendizagem, sem reduzir a expectativa de desenvolvimento do aluno. O Atendimento Educacional Especializado (AEE) atua de forma complementar, geralmente na sala de recursos multifuncionais."
+  },
+  {
+    "topico": "Reunião de pais",
+    "palavras_chave": ["reuniao", "reunião", "pais", "responsaveis", "responsáveis", "familia", "família"],
+    "resposta": "A reunião de pais/responsáveis é o momento formal de comunicação entre escola e família sobre o desempenho e o comportamento do aluno. É recomendável preparar uma pauta objetiva, apresentar dados concretos (frequência, notas, produções) e registrar em ata os encaminhamentos combinados."
+  },
+  {
+    "topico": "Registro de ata",
+    "palavras_chave": ["ata", "registro", "documentar", "reuniao", "reunião"],
+    "resposta": "A ata é o registro formal de uma reunião: deve conter data, participantes, pauta, principais discussões e encaminhamentos definidos. Atas de conselho de classe e de reuniões pedagógicas costumam ser exigidas em processos de auditoria e prestação de contas da secretaria de educação."
+  }
+]
